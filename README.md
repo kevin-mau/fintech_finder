@@ -8,10 +8,15 @@
 ---
 ## Installation Guide
 
-You will need to install streamlit to your environment to run this application:
+You will need to install streamlit, as well as the Web3.py, and ethereum-tester libraries.  You will also need the mnemonic package and the bip44 package on your environment to 
+run this application:
 
 ```python
   pip install streamlit
+  pip install web3==5.17
+  pip install eth-tester==0.5.0b3
+  pip install mnemonic
+  pip install bip44
 ```
 
 You will also need to create a `.env` file in your repository.  
