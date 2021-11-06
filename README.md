@@ -50,7 +50,7 @@ Kovan testnet, validated, and added to a block, a resulting transaction hash cod
 The account balance, history, and transaction details can be viewed at [Kovan's Etherscan](https://kovan.etherscan.io/) website.
 
 ---
-## FinTech Finder - Streamlit Application Demonstration:
+## Fintech Finder - Streamlit Application Demonstration:
 ![demo](https://user-images.githubusercontent.com/85687829/140622709-b7b75593-ab1b-49a9-a093-f3fe5891f4d9.gif)
 
 ## Screenshot of The Hirer's (My) Address Balance and History on Etherscan BEFORE the Transaction:
