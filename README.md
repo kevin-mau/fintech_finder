@@ -62,7 +62,7 @@ The account balance, history, and transaction details can be viewed at [Kovan's 
 ## Screenshot of "The Hiree's" (the Recipient's) Address Balance and History on Etherscan (transaction highlighted in yellow):
 ![recipient](https://user-images.githubusercontent.com/85687829/140622801-28cffc7b-a37e-41a5-821c-2e2b9b29e840.png)
 
-## Screenshot of "The Hirer's" (My) Address Balance and History on Etherscan AFTER the Transaction Has Completed (transaction highlighted in yellow):
+## Screenshot of "The Hirer's" (My) Address Balance and History on Etherscan AFTER the Transaction Has Completed (balance and the transaction highlighted in yellow):
 ![after](https://user-images.githubusercontent.com/85687829/140622806-1c83a675-0f59-4468-8a55-3180a3508296.png)
 
 
