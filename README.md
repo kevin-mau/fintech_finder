@@ -53,16 +53,16 @@ The account balance, history, and transaction details can be viewed at [Kovan's 
 ## Fintech Finder - Streamlit Application Demonstration:
 ![demo](https://user-images.githubusercontent.com/85687829/140622709-b7b75593-ab1b-49a9-a093-f3fe5891f4d9.gif)
 
-## Screenshot of The Hirer's (My) Address Balance and History on Etherscan BEFORE the Transaction:
+## Screenshot of "The Hirer's" (My) Address Balance and History on Etherscan BEFORE the Transaction:
 ![before](https://user-images.githubusercontent.com/85687829/140622746-7002f3cf-a272-472d-a9eb-5ab7cc393019.png)
 
 ## Screenshot of the Transaction Details on Etherscan:
 ![transaction](https://user-images.githubusercontent.com/85687829/140622770-b7dd05bf-fc3f-4a78-9a52-370bde0494f6.png)
 
-## Screenshot of The Hiree's (the Recipient's) Address Balance and History on Etherscan:
+## Screenshot of "The Hiree's" (the Recipient's) Address Balance and History on Etherscan:
 ![recipient](https://user-images.githubusercontent.com/85687829/140622801-28cffc7b-a37e-41a5-821c-2e2b9b29e840.png)
 
-## Screenshot of The Hirer's (My) Address Balance and History on Etherscan AFTER the Transaction Has Completed:
+## Screenshot of "The Hirer's" (My) Address Balance and History on Etherscan AFTER the Transaction Has Completed:
 ![after](https://user-images.githubusercontent.com/85687829/140622806-1c83a675-0f59-4468-8a55-3180a3508296.png)
 
 
