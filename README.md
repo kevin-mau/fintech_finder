@@ -1,7 +1,7 @@
 # Fintech Finder Application
  
 ---
-### Using Python and Steamlit we build an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them.  We integrate the Ethereum blockchain network into the application in order to enable our customers to instantly pay the fintech professionals whom they hire with cryptocurrency.
+### Using Python and Streamlit we build an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them.  We integrate the Ethereum blockchain network into the application in order to enable our customers to instantly pay the fintech professionals whom they hire with cryptocurrency.
 
 ### Included in this repository are two Python files.  The first file is called `fintech_finder.py`.  It contains the code associated with the web interface of the application.  The code included in this file is compatible with the Streamlit library.  The second file is called `crypto_wallet.py`.  This file contains the Ethereum transaction functions.  By using import statements, we integrate the `crypto_wallet.py` Python script into the Fintech Finder interface program that is found in the `fintech_finder.py` file.  Integrating these two files allows us automate the tasks associated with generating a digital wallet, accessing Ethereum account balances, and signing and sending transactions via [Ethereum’s Kovan](https://kovan.etherscan.io/) testnet.
 
